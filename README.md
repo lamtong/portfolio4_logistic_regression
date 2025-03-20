@@ -44,13 +44,8 @@ A classification model was used to predict customer spending behavior. The analy
 - Key coefficients indicated a positive impact of shopping frequency and store type on spending.
 - Model accuracy: **94.7%**
 
-#### Decision Tree Model
-- Provided an intuitive decision rule for classifying customers.
-- Higher depth improved accuracy but risked overfitting.
-
 ### Model Interpretation
 - Logistic regression coefficients suggested that increasing shopping frequency significantly raised the probability of being a high spender.
-- Decision tree analysis highlighted critical decision points in customer behavior.
 
 ### Conclusion
 The analysis successfully classified customer spending behavior using logistic regression. Findings suggest that marketing strategies should focus on engaging high spenders at superstores while encouraging low spenders to increase basket value.
