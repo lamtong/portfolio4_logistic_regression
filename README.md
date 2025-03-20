@@ -1,6 +1,6 @@
 # Customer Spending Analysis at Fresco Supermarket
 
-Refer to Refer to [portfolio_task4.ipynb](./portfolio_task4.ipynb) or [portfolio_task4.html](./portfolio_task4.html) for detailed report of the analysis.
+Refer to Refer to [portfolio_task4.ipynb](./portfolio_task4.ipynb) or [portfolio_task4.html](./portfolio_task4.html) for a detailed report of the analysis.
 
 ## Part A: Executive Summary
 
