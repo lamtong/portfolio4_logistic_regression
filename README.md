@@ -22,6 +22,9 @@ A classification model was used to predict customer spending behavior. The analy
 - High spenders are more likely to shop at superstores and purchase premium products.
 - Logistic regression performed well in classifying customer segments with reasonable accuracy.
 
+![image](https://github.com/user-attachments/assets/254c74c0-d4c2-408c-b94b-8937bdb0d960)
+
+
 ### Recommendations
 - Target high spenders with personalized promotions at superstores.
 - Develop loyalty incentives for low spenders to increase basket value.
